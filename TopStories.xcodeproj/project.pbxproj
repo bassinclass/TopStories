@@ -13,6 +13,7 @@
 		8191EA7E2108D5BD005E19AD /* TopStories.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 8191EA7C2108D5BD005E19AD /* TopStories.xcdatamodeld */; };
 		8191EA802108D5BE005E19AD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8191EA7F2108D5BE005E19AD /* Assets.xcassets */; };
 		8191EA832108D5BE005E19AD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8191EA812108D5BE005E19AD /* LaunchScreen.storyboard */; };
+		8191EA8B2108DA43005E19AD /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8191EA8A2108DA42005E19AD /* SwiftyJSON.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		8191EA7F2108D5BE005E19AD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8191EA822108D5BE005E19AD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8191EA842108D5BE005E19AD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8191EA8A2108DA42005E19AD /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				8191EA7F2108D5BE005E19AD /* Assets.xcassets */,
 				8191EA812108D5BE005E19AD /* LaunchScreen.storyboard */,
 				8191EA842108D5BE005E19AD /* Info.plist */,
+				8191EA8A2108DA42005E19AD /* SwiftyJSON.swift */,
 				8191EA7C2108D5BD005E19AD /* TopStories.xcdatamodeld */,
 			);
 			path = TopStories;
@@ -141,6 +144,7 @@
 				8191EA782108D5BD005E19AD /* SourcesViewController.swift in Sources */,
 				8191EA7E2108D5BD005E19AD /* TopStories.xcdatamodeld in Sources */,
 				8191EA762108D5BD005E19AD /* AppDelegate.swift in Sources */,
+				8191EA8B2108DA43005E19AD /* SwiftyJSON.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
